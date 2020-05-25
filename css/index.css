@@ -1,0 +1,27 @@
+body {
+    background: #FFF8F3;
+    text-align: center;
+}
+details.container{
+    width: 100%;
+    max-width: 1200;
+    margin: 0 auto;
+}
+header a { 
+    color:#FDD8D8; 
+    text-decoration:none;
+    }
+header a.right{
+    padding-left: 700px;
+}
+header a.left{
+    padding-right: 700px;
+}   
+header details p,summary.font{
+    font-family: 'Merriweather', serif;
+    padding-right: 700px;
+}
+header hgroup h1,h2{
+    font-family: 'Chelsea Market', cursive;
+    padding-top: ;
+}
